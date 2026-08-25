@@ -1,4 +1,4 @@
-# Eaglercraft 1.8.8 — Campeonato no Servidor
+# Eaglercraft 1.8.8 - Campeonato no Servidor
 
 Manual completo para preparar um mundo de campeonato para **Eaglercraft/Minecraft 1.8.8**, usando um servidor e comandos do Minecraft.
 
@@ -8,10 +8,10 @@ Formato recomendado:
 
 - 20 jogadores
 - 4 times de 5 jogadores
-- Time A — vermelho
-- Time B — azul
-- Time C — verde
-- Time D — amarelo
+- Time A - vermelho
+- Time B - azul
+- Time C - verde
+- Time D - amarelo
 - 5 minutos de preparação
 - 15 minutos de batalha
 - PvP desligado durante a preparação
